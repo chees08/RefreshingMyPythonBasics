@@ -14,11 +14,6 @@ while True:
             total = float(number1) - float(number2)
             print(total)
 
-    if total == 69.0:
-        print("what are u smiling to?")
-    else:
-     print("")
-
     next_calculation = input("Let's do next calculation? (yes/no): ")
     if next_calculation == "no":
       break
